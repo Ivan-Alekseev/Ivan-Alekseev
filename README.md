@@ -1,5 +1,5 @@
 <p align="center">
-      <img src="https://github.com/Ivan-Alekseev/Ivan-Alekseev/blob/main/head.gif" width="100%" height="30vh" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen/></p>
+      <img src="https://github.com/Ivan-Alekseev/Ivan-Alekseev/blob/main/head.gif" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen/></p>
 
 </p>
 <p align="center">
