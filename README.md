@@ -33,7 +33,7 @@ Here you can find some of my open source and pet-projects.
 <a href="mailto:ivanalekseev220195@gmail.com"><img height="30" src="https://github.com/Renko-hens/renkoHens/blob/main/003-email.svg"></a>&nbsp;&nbsp;
 <!--<a href="https://www.linkedin.com/in/"><img height="30" src="https://github.com/Renko-hens/renkoHens/blob/main/001-linkedin.svg"></a>&nbsp;&nbsp;-->
 <!--<a href=""><img height="30" src="https://github.com/Renko-hens/renkoHens/blob/main/002-instagram.svg"></a>&nbsp;&nbsp;-->
-<a href="https://spb.hh.ru/resume/c342aefeff0b4dc81d0039ed1f3662737a4f47"><img height="30" src="https://github.com/Ivan-Alekseev/Ivan-Alekseev/blob/main/HeadHunter_logo.png"></a>&nbsp;&nbsp;
+<a href="https://spb.hh.ru/resume/c342aefeff0b4dc81d0039ed1f3662737a4f47"><img height="30" src="https://github.com/Ivan-Alekseev/Ivan-Alekseev/blob/main/headhunter.png"></a>&nbsp;&nbsp;
 <a href="https://t.me/aleksv95"><img height="30" src="https://github.com/Ivan-Alekseev/Ivan-Alekseev/blob/main/telegram.svg"></a>&nbsp;&nbsp;
 </p>
 <p align="center">
