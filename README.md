@@ -1,5 +1,6 @@
 <p align="center">
-      <iframe src="https://gifer.com/embed/WSG" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></p>
+      <iframe src="https://github.com/Ivan-Alekseev/Ivan-Alekseev/blob/main/WSG.gif" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></p>
+
 </p>
 <p align="center">
       <h1>Hi👋! I am Ivan Alekseev. Frontend developer</h1>
