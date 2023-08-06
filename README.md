@@ -31,6 +31,10 @@ Here you can find some of my open source and pet-projects.
 | [MyCV](https://ivan-alekseev.github.io/MyCV/)[[project]](https://github.com/Ivan-Alekseev/UTM-Generator)| My resume with my skills  | HTML, CSS, React |
 | [Budget calculation](https://ivan-alekseev.github.io/Budget---calculation/)[[project]](https://github.com/Ivan-Alekseev/Budget---calculation)| With the help of this file, you can simply calculate expenses and income. | HTML, CSS, JavaScript |
 
+### 🥇Certificates:
+<p align="left">
+      <img src="https://github.com/Ivan-Alekseev/Ivan-Alekseev/blob/files/GeekBrainsJS1.png" width="30%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen/></p>
+
 ### 💌 Feel free to contact me if you have interesting ideas or looking for a new team member. 
 
 <p align="center">
