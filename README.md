@@ -30,6 +30,8 @@ Here you can find some of my open source and pet-projects.
 |[UTM-Generator ](https://ivan-alekseev.github.io/UTM-Generator/)[[project]](https://github.com/Ivan-Alekseev/UTM-Generator)| A service for generating utm tags in URL links. | JavaScript, HTML, CSS |
 | [MyCV](https://ivan-alekseev.github.io/MyCV/)| My resume with my skills  | HTML, CSS, React |
 | [Budget calculation](https://ivan-alekseev.github.io/Budget---calculation/)[[project]](https://github.com/Ivan-Alekseev/Budget---calculation)| With the help of this file, you can simply calculate expenses and income. | HTML, CSS, JavaScript |
+| [CRM-landing](https://github.com/Ivan-Alekseev/CRM-project)| CRM-landing  | React, Styled Components |
+
 
 ### 🥇Certificates:
 <p align="left">
