@@ -13,7 +13,8 @@ Here you can find some of my open source and pet-projects.
 
 - **Responsive web-development:** HTML, CSS/SCSS/LESS;
 - **Frontend:** JavaScript (ES6+)
-- **JavaScript libraries:** React, Redux;
+- **JavaScript libraries:** React;
+- **Visual libraries:** Styled Components
 - **Testing libraries:** Jest;
 - **Code bundlers:** Webpack;
 - **UX/UI:** Figma, Adobe Photoshop.
@@ -21,16 +22,16 @@ Here you can find some of my open source and pet-projects.
 ## 🎓 Currently learning:
 - React;
 - TypeScript;
-- Styled Components.
+- Redux
 
 ### 💻 Some of my open source projects:
 
 | Project name        | Description          | Technologies  |
 | --------------------- | ------------- | ---------------- |
-|[UTM-Generator ](https://ivan-alekseev.github.io/UTM-Generator/)[[project]](https://github.com/Ivan-Alekseev/UTM-Generator)| A service for generating utm tags in URL links. | JavaScript, HTML, CSS |
-| [MyCV](https://ivan-alekseev.github.io/MyCV/)| My resume with my skills  | HTML, CSS, React |
-| [Budget calculation](https://ivan-alekseev.github.io/Budget---calculation/)[[project]](https://github.com/Ivan-Alekseev/Budget---calculation)| With the help of this file, you can simply calculate expenses and income. | HTML, CSS, JavaScript |
-| [CRM-landing](https://github.com/Ivan-Alekseev/CRM-project)| CRM-landing  | React, Styled Components |
+|UTM-Generator<br>[[Show]](https://ivan-alekseev.github.io/UTM-Generator/)[[Project]](https://github.com/Ivan-Alekseev/UTM-Generator)| A service for generating utm tags in URL links. | JavaScript, HTML, CSS |
+| MyCV<br>[[Show]](https://ivan-alekseev.github.io/MyCV/)| Resume with my skills  | HTML, CSS, React |
+| Budget calculation<br>[[Show]](https://ivan-alekseev.github.io/Budget---calculation/)[[Project]](https://github.com/Ivan-Alekseev/Budget---calculation)| With the help of this file, you can simply calculate expenses and income. | HTML, CSS, JavaScript |
+| CRM-landing<br> [[Show]](https://ivan-alekseev.github.io/CRM-project/)[[Project]](https://github.com/Ivan-Alekseev/CRM-project)|Create landing CRM for get data from server| React, Styled Components |
 
 
 ### 🥇Certificates:
